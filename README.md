@@ -28,6 +28,7 @@ This repository showcases a variety of indie projects across different categorie
 | Logo | Name | Description | Platform | Tech Stack | Revenue (Optional) | Total Users | Released Date | Last Updated |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | — | [MeetNewAI](https://meetnewai.com/) | Free bilingual directory of AI tools, AI games, and MCP servers | Web | N/A | N/A | N/A | N/A | N/A |
+| N/A | [ArtiGram](https://artigram.cafeboon.com) | Free gallery of interactive HTML artifacts made by people and AI assistants, with a remote MCP server | Web | N/A | N/A | N/A | N/A | N/A |
 
 [⬆️ Go to Top](#-categories)
 
