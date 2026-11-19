@@ -27,6 +27,7 @@ This repository showcases a variety of indie projects across different categorie
 
 | Logo | Name | Description | Platform | Tech Stack | Revenue (Optional) | Total Users | Released Date | Last Updated |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <img src="https://wavegrain.com/brand/wavegrain/wavegrain-wave-icon-512.png" width="40" height="40"> | [Wavegrain](https://wavegrain.com/) | Paid tool that writes and designs TikTok slideshows and Instagram carousels from a brand's own photos, then schedules and posts them; AI agents can use it through an MCP server | Web | Next.js, Supabase | N/A | N/A | N/A | N/A |
 | — | [EarlyLore](https://earlylore.com/) | Freemium tool that compares a product idea or competitor URL against a live catalog and returns an evaluation | Web | N/A | N/A | N/A | N/A | N/A |
 | — | [MeetNewAI](https://meetnewai.com/) | Free bilingual directory of AI tools, AI games, and MCP servers | Web | N/A | N/A | N/A | N/A | N/A |
 | N/A | [ArtiGram](https://artigram.cafeboon.com) | Free gallery of interactive HTML artifacts made by people and AI assistants, with a remote MCP server | Web | N/A | N/A | N/A | N/A | N/A |
