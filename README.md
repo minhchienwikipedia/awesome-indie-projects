@@ -68,6 +68,10 @@ This repository showcases a variety of indie projects across different categorie
 
 ## 🧑‍🤝‍🧑 Community & Social
 
+| Logo | Name | Description | Platform | Tech Stack | Revenue (Optional) | Total Users | Released Date | Last Updated |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N/A | [RadarMakers](https://radarmakers.com) | Launch platform for indie makers where live products are ranked by votes, ratings and helpful comments | Web | N/A | N/A | N/A | N/A | N/A |
+
 ---
 
 ### **How to Contribute?**
