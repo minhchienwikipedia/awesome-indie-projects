@@ -47,6 +47,7 @@ This repository showcases a variety of indie projects across different categorie
 | Logo                                                                            | Name                                  | Description                    | Platform | Tech Stack           | Revenue (Optional) | Total Users | Released Date | Last Updated |
 | ------------------------------------------------------------------------------- | ------------------------------------- | ------------------------------ | -------- | -------------------- | ------------------ | ----------- | ------------- | ------------ |
 | <img src="https://snappeak.app/logo.svg" width="40" height="40"> | [Snappeak](http://snappeak.app/) | The software for selfbooth, photobooth studio | Web, Desktop   | Flutter, Firebase | N/A                | NA      | 8-11-2026    | NA   |
+| — | [StagePeek](https://stagepeek.live/) | Interactive 2D seating charts & 3D concert stage-view simulator covering 201 global venues with 1x–10x camera zoom framing (free no-login tier) | Web | Native ESM, Three.js | N/A | N/A | 2026 | Nov 2026 |
 
 [⬆️ Go to Top](#-categories)
 
